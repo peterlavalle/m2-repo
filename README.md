@@ -9,3 +9,11 @@ repositories {
 	}
 }
 ```
+
+something like
+
+```
+dependencies {
+  compile "com.peterlavalle:peterlavalle_${scalaFlavour}:2017.06.22"
+}
+```
