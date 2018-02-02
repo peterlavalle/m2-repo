@@ -3,11 +3,12 @@
   <groupId>com.peterlavalle</groupId>
   <artifactId>dynamic-cmake</artifactId>
   <versioning>
-    <release>2018-01-31</release>
+    <release>2018-02-02</release>
     <versions>
       <version>2018.01.09</version>
       <version>2018-01-31</version>
+      <version>2018-02-02</version>
     </versions>
-    <lastUpdated>20180131004138</lastUpdated>
+    <lastUpdated>20180202205557</lastUpdated>
   </versioning>
 </metadata>
