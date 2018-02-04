@@ -3,12 +3,13 @@
   <groupId>com.peterlavalle</groupId>
   <artifactId>tin-flue</artifactId>
   <versioning>
-    <release>2018-02-02</release>
+    <release>2018-02-04</release>
     <versions>
       <version>2018.01.09</version>
       <version>2018-01-31</version>
       <version>2018-02-02</version>
+      <version>2018-02-04</version>
     </versions>
-    <lastUpdated>20180202205602</lastUpdated>
+    <lastUpdated>20180204023147</lastUpdated>
   </versioning>
 </metadata>
