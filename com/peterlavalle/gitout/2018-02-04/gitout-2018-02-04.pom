@@ -12,5 +12,11 @@
       <version>2018-02-04</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>com.peterlavalle</groupId>
+      <artifactId>merc_2.12</artifactId>
+      <version>2018-02-04</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 </project>
