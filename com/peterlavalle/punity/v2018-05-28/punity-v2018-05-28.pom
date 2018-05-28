@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.peterlavalle</groupId>
+  <artifactId>punity</artifactId>
+  <version>v2018-05-28</version>
+  <dependencies>
+    <dependency>
+      <groupId>com.peterlavalle</groupId>
+      <artifactId>peterlavalle_2.12</artifactId>
+      <version>v2018-05-28</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.peterlavalle</groupId>
+      <artifactId>gbt</artifactId>
+      <version>v2018-05-28</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.peterlavalle</groupId>
+      <artifactId>phile_2.12</artifactId>
+      <version>v2018-05-28</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.github.spullara.mustache.java</groupId>
+      <artifactId>compiler</artifactId>
+      <version>0.9.5</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
