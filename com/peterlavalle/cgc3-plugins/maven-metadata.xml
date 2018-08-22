@@ -3,13 +3,14 @@
   <groupId>com.peterlavalle</groupId>
   <artifactId>cgc3-plugins</artifactId>
   <versioning>
-    <release>v2018-08-20</release>
+    <release>v2018-08-22</release>
     <versions>
       <version>v2018-08-10</version>
       <version>v2018-08-18</version>
       <version>v2018-08-19</version>
       <version>v2018-08-20</version>
+      <version>v2018-08-22</version>
     </versions>
-    <lastUpdated>20180820120612</lastUpdated>
+    <lastUpdated>20180822005154</lastUpdated>
   </versioning>
 </metadata>
